@@ -1,0 +1,2 @@
+# almasoc
+Alumni Association 
